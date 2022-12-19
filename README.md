@@ -19,5 +19,6 @@
 - 🖥 &nbsp; Figma
 
 <br/>
+
 [![Prabhat Karna's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sanu20&show_icons=true)](https://github.com/sanu20)
 ![Prabhat karna Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanu20&theme=vue&layout=compact)
