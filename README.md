@@ -11,7 +11,7 @@
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; C | C++
-- :bulb: &nbsp; JavaScript | TypeScript | Node.js |
+- :bulb: &nbsp; JavaScript | WordPress | Node.js | PHP
 - :trophy: &nbsp; ReactJS | NextJS | Redux | 
 - &#127969;&nbsp; HTML | CSS | SCSS | Bootstrap | Material UI | AntDesign
 - ✨ &nbsp; Firebase | REST | MySQL
